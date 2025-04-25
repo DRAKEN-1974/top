@@ -6,7 +6,7 @@ import Image from 'next/image';
 import './top.css';
 
 const travelImages = [
-  '/images/mountain.jpg',
+  '/images/main bn.jpg',
   '/images/beach.jpg',
   '/images/mountain1.jpg',
   '/images/sky.jpg',
