@@ -52,7 +52,7 @@ const Footer = () => {
               transition={{ duration: 0.8 }}
               className="footer-title"
             >
-              Let's explore the world together
+               Let&#39;s explore the world together
             </motion.h2>
             <div className="company-info">
               <p>{companyInfo.address}</p>
